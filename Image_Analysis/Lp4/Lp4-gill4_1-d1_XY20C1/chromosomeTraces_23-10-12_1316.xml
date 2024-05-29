@@ -1,0 +1,3968 @@
+<?xml version="1.0" encoding="UTF-8"?><lp4-gill4_1-d1_xy20c1aryogram.pn stacksize="0">
+    <CKChromosome index="0">
+        <Label label="20"/>
+        <Point index="0">
+            <x>343.0</x>
+            <y>349.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>343.0</x>
+            <y>349.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>343.0</x>
+            <y>350.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>343.0</x>
+            <y>351.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>343.0</x>
+            <y>352.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>343.0</x>
+            <y>353.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>343.0</x>
+            <y>354.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>343.0</x>
+            <y>355.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>343.0</x>
+            <y>356.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>343.0</x>
+            <y>357.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>343.0</x>
+            <y>358.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>343.0</x>
+            <y>359.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>343.0</x>
+            <y>360.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>342.0</x>
+            <y>360.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>342.0</x>
+            <y>361.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="1">
+        <Label label="19"/>
+        <Point index="0">
+            <x>302.0</x>
+            <y>343.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>302.0</x>
+            <y>343.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>302.0</x>
+            <y>344.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>302.0</x>
+            <y>345.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>301.0</x>
+            <y>345.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>301.0</x>
+            <y>346.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>301.0</x>
+            <y>347.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>301.0</x>
+            <y>348.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>301.0</x>
+            <y>349.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>301.0</x>
+            <y>350.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>301.0</x>
+            <y>351.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>301.0</x>
+            <y>352.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>301.0</x>
+            <y>353.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>301.0</x>
+            <y>354.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>301.0</x>
+            <y>355.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>301.0</x>
+            <y>356.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>301.0</x>
+            <y>357.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>301.0</x>
+            <y>358.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>300.0</x>
+            <y>358.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>300.0</x>
+            <y>359.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>300.0</x>
+            <y>360.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="2">
+        <Label label="18"/>
+        <Point index="0">
+            <x>185.0</x>
+            <y>346.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>185.0</x>
+            <y>346.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>185.0</x>
+            <y>347.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>186.0</x>
+            <y>347.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>186.0</x>
+            <y>348.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>186.0</x>
+            <y>349.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>186.0</x>
+            <y>350.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>186.0</x>
+            <y>351.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>186.0</x>
+            <y>352.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>185.0</x>
+            <y>352.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>185.0</x>
+            <y>353.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>185.0</x>
+            <y>354.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>185.0</x>
+            <y>355.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>185.0</x>
+            <y>356.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>186.0</x>
+            <y>356.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>186.0</x>
+            <y>357.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>186.0</x>
+            <y>358.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>186.0</x>
+            <y>359.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>186.0</x>
+            <y>360.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>185.0</x>
+            <y>360.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>185.0</x>
+            <y>361.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="3">
+        <Label label="17"/>
+        <Point index="0">
+            <x>662.0</x>
+            <y>227.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>662.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>662.0</x>
+            <y>228.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>662.0</x>
+            <y>229.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>662.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>662.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>662.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>662.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>662.0</x>
+            <y>234.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>662.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>662.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>662.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>662.0</x>
+            <y>238.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>662.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>662.0</x>
+            <y>240.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>662.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>662.0</x>
+            <y>242.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>662.0</x>
+            <y>243.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>662.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>662.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>662.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>662.0</x>
+            <y>247.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>662.0</x>
+            <y>248.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="4">
+        <Label label="16"/>
+        <Point index="0">
+            <x>137.0</x>
+            <y>343.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>137.0</x>
+            <y>343.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>137.0</x>
+            <y>344.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>137.0</x>
+            <y>345.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>138.0</x>
+            <y>345.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>138.0</x>
+            <y>346.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>138.0</x>
+            <y>347.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>138.0</x>
+            <y>348.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>138.0</x>
+            <y>349.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>138.0</x>
+            <y>350.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>138.0</x>
+            <y>351.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>138.0</x>
+            <y>352.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>138.0</x>
+            <y>353.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>137.0</x>
+            <y>353.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>137.0</x>
+            <y>354.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>138.0</x>
+            <y>354.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>138.0</x>
+            <y>355.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>138.0</x>
+            <y>356.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>138.0</x>
+            <y>357.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>138.0</x>
+            <y>358.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>138.0</x>
+            <y>359.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>138.0</x>
+            <y>360.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>138.0</x>
+            <y>361.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>138.0</x>
+            <y>362.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>138.0</x>
+            <y>363.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="5">
+        <Label label="15"/>
+        <Point index="0">
+            <x>299.0</x>
+            <y>224.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>299.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>299.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>299.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>299.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>299.0</x>
+            <y>228.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>299.0</x>
+            <y>229.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>299.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>299.0</x>
+            <y>231.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>299.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>299.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>299.0</x>
+            <y>234.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>299.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>299.0</x>
+            <y>236.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>299.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>299.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>299.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>299.0</x>
+            <y>240.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>299.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>299.0</x>
+            <y>242.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>299.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>299.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>299.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>299.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>299.0</x>
+            <y>247.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>299.0</x>
+            <y>248.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="6">
+        <Label label="14"/>
+        <Point index="0">
+            <x>614.0</x>
+            <y>223.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>614.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>614.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>614.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>614.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>615.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>615.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>615.0</x>
+            <y>228.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>615.0</x>
+            <y>229.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>615.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>615.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>615.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>615.0</x>
+            <y>233.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>615.0</x>
+            <y>234.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>615.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>615.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>616.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>616.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>616.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>616.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>616.0</x>
+            <y>240.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>616.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>616.0</x>
+            <y>242.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>616.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>616.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>616.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>616.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>616.0</x>
+            <y>247.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="7">
+        <Label label="13"/>
+        <Point index="0">
+            <x>189.0</x>
+            <y>221.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>189.0</x>
+            <y>221.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>189.0</x>
+            <y>222.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>189.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>189.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>189.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>189.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>189.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>189.0</x>
+            <y>228.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>189.0</x>
+            <y>229.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>189.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>189.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>189.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>189.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>189.0</x>
+            <y>234.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>189.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>189.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>189.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>189.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>189.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>189.0</x>
+            <y>240.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>189.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>189.0</x>
+            <y>242.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>189.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>189.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>189.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>189.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>189.0</x>
+            <y>247.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="8">
+        <Label label="12"/>
+        <Point index="0">
+            <x>502.0</x>
+            <y>223.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>502.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>502.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>502.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>503.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>503.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>503.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>503.0</x>
+            <y>228.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>503.0</x>
+            <y>229.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>503.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>503.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>502.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>502.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>502.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>502.0</x>
+            <y>234.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>502.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>502.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>502.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>503.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>503.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>503.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>503.0</x>
+            <y>240.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>503.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>503.0</x>
+            <y>242.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>503.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>503.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>502.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>502.0</x>
+            <y>245.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="9">
+        <Label label="11"/>
+        <Point index="0">
+            <x>459.0</x>
+            <y>221.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>459.0</x>
+            <y>221.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>459.0</x>
+            <y>222.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>459.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>459.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>460.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>460.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>460.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>460.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>460.0</x>
+            <y>228.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>460.0</x>
+            <y>229.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>460.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>460.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>460.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>460.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>460.0</x>
+            <y>234.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>459.0</x>
+            <y>234.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>459.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>460.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>460.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>460.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>460.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>460.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>460.0</x>
+            <y>240.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>460.0</x>
+            <y>241.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>460.0</x>
+            <y>242.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>460.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>460.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>460.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>460.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>460.0</x>
+            <y>247.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="10">
+        <Label label="10"/>
+        <Point index="0">
+            <x>136.0</x>
+            <y>220.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>136.0</x>
+            <y>220.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>136.0</x>
+            <y>221.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>136.0</x>
+            <y>222.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>136.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>137.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>137.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>137.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>137.0</x>
+            <y>226.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>137.0</x>
+            <y>227.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>137.0</x>
+            <y>228.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>137.0</x>
+            <y>229.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>137.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>137.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>137.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>137.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>137.0</x>
+            <y>234.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>137.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>137.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>137.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>137.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>136.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>136.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>136.0</x>
+            <y>240.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>136.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>136.0</x>
+            <y>242.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>136.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>136.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>136.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>136.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>136.0</x>
+            <y>247.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>136.0</x>
+            <y>248.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>136.0</x>
+            <y>249.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="11">
+        <Label label="9"/>
+        <Point index="0">
+            <x>340.0</x>
+            <y>218.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>340.0</x>
+            <y>218.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>340.0</x>
+            <y>219.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>340.0</x>
+            <y>220.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>340.0</x>
+            <y>221.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>340.0</x>
+            <y>222.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>340.0</x>
+            <y>223.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>340.0</x>
+            <y>224.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>340.0</x>
+            <y>225.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>340.0</x>
+            <y>226.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>340.0</x>
+            <y>227.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>340.0</x>
+            <y>228.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>340.0</x>
+            <y>229.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>340.0</x>
+            <y>230.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>340.0</x>
+            <y>231.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>340.0</x>
+            <y>232.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>339.0</x>
+            <y>232.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>340.0</x>
+            <y>233.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>340.0</x>
+            <y>234.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>340.0</x>
+            <y>235.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>340.0</x>
+            <y>236.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>340.0</x>
+            <y>237.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>340.0</x>
+            <y>238.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>340.0</x>
+            <y>239.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>340.0</x>
+            <y>240.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>340.0</x>
+            <y>241.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>340.0</x>
+            <y>242.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>340.0</x>
+            <y>243.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>340.0</x>
+            <y>244.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>340.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>339.0</x>
+            <y>245.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>339.0</x>
+            <y>246.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>339.0</x>
+            <y>247.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="12">
+        <Label label="8"/>
+        <Point index="0">
+            <x>504.0</x>
+            <y>100.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>504.0</x>
+            <y>100.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>504.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>504.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>504.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>504.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>503.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>503.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>503.0</x>
+            <y>106.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>503.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>503.0</x>
+            <y>108.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>503.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>503.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>503.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>502.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>502.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>502.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>502.0</x>
+            <y>114.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>502.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>502.0</x>
+            <y>116.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>502.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>502.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>502.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>502.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>502.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>502.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>502.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>502.0</x>
+            <y>124.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>502.0</x>
+            <y>125.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>502.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>502.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>502.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>502.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>502.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>501.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>501.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>501.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>501.0</x>
+            <y>133.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="13">
+        <Label label="7"/>
+        <Point index="0">
+            <x>664.0</x>
+            <y>102.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>664.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>664.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>664.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>665.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>665.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>665.0</x>
+            <y>106.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>665.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>665.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>666.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>666.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>666.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>666.0</x>
+            <y>111.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>666.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>666.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>666.0</x>
+            <y>114.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>666.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>666.0</x>
+            <y>116.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>666.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>666.0</x>
+            <y>118.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>667.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>667.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>667.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>667.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>667.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>667.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>667.0</x>
+            <y>124.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>668.0</x>
+            <y>124.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>668.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>668.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>668.0</x>
+            <y>127.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>668.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>668.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>668.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>669.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>669.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>669.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>669.0</x>
+            <y>133.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>669.0</x>
+            <y>134.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="14">
+        <Label label="6"/>
+        <Point index="0">
+            <x>615.0</x>
+            <y>97.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>615.0</x>
+            <y>97.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>615.0</x>
+            <y>98.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>615.0</x>
+            <y>99.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>615.0</x>
+            <y>100.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>615.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>615.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>615.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>615.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>615.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>615.0</x>
+            <y>106.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>615.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>615.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>615.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>615.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>614.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>614.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>614.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>614.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>614.0</x>
+            <y>114.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>614.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>614.0</x>
+            <y>116.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>614.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>614.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>614.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>614.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>614.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>614.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>614.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>614.0</x>
+            <y>124.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>614.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>614.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>614.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>614.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>614.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>614.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>613.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>613.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>613.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="39">
+            <x>613.0</x>
+            <y>133.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="15">
+        <Label label="5"/>
+        <Point index="0">
+            <x>454.0</x>
+            <y>96.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>454.0</x>
+            <y>96.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>454.0</x>
+            <y>97.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>454.0</x>
+            <y>98.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>454.0</x>
+            <y>99.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>454.0</x>
+            <y>100.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>454.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>454.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>454.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>454.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>454.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>454.0</x>
+            <y>106.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>454.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>454.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>454.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>454.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>453.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>453.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>453.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>453.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>453.0</x>
+            <y>114.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>453.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>453.0</x>
+            <y>116.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>453.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>453.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>453.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>453.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>453.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>453.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>453.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>453.0</x>
+            <y>124.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>453.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>453.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>453.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>453.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>453.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>453.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>452.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>452.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="39">
+            <x>452.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="40">
+            <x>452.0</x>
+            <y>133.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="16">
+        <Label label="4"/>
+        <Point index="0">
+            <x>294.0</x>
+            <y>96.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>294.0</x>
+            <y>96.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>294.0</x>
+            <y>97.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>294.0</x>
+            <y>98.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>294.0</x>
+            <y>99.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>294.0</x>
+            <y>100.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>294.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>294.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>294.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>294.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>294.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>294.0</x>
+            <y>106.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>294.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>294.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>294.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>294.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>294.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>294.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>294.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>294.0</x>
+            <y>114.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>294.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>294.0</x>
+            <y>116.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>294.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>294.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>294.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>294.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>294.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>294.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>293.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>293.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>293.0</x>
+            <y>124.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>293.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>293.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>293.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>293.0</x>
+            <y>128.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>293.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>293.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>293.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>293.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="39">
+            <x>293.0</x>
+            <y>133.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="40">
+            <x>293.0</x>
+            <y>134.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="41">
+            <x>293.0</x>
+            <y>135.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="17">
+        <Label label="3"/>
+        <Point index="0">
+            <x>346.0</x>
+            <y>97.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>346.0</x>
+            <y>97.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>346.0</x>
+            <y>98.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>346.0</x>
+            <y>99.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>346.0</x>
+            <y>100.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>346.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>346.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>346.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>346.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>346.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>346.0</x>
+            <y>106.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>346.0</x>
+            <y>107.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>346.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>346.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>346.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>345.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>345.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>345.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>345.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>344.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>344.0</x>
+            <y>114.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>344.0</x>
+            <y>115.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>344.0</x>
+            <y>116.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>344.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>343.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>343.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>343.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>343.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>343.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>343.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>342.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>342.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>342.0</x>
+            <y>124.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>342.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>342.0</x>
+            <y>126.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>342.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>342.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>342.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>342.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="39">
+            <x>342.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="40">
+            <x>342.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="41">
+            <x>342.0</x>
+            <y>133.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="42">
+            <x>342.0</x>
+            <y>134.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="18">
+        <Label label="2"/>
+        <Point index="0">
+            <x>186.0</x>
+            <y>91.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>186.0</x>
+            <y>91.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>186.0</x>
+            <y>92.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>186.0</x>
+            <y>93.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>186.0</x>
+            <y>94.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>186.0</x>
+            <y>95.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>186.0</x>
+            <y>96.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>186.0</x>
+            <y>97.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>186.0</x>
+            <y>98.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>186.0</x>
+            <y>99.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>186.0</x>
+            <y>100.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>186.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>186.0</x>
+            <y>102.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>186.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>186.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>186.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>186.0</x>
+            <y>106.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>185.0</x>
+            <y>106.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>185.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>185.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>185.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>185.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>185.0</x>
+            <y>111.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>185.0</x>
+            <y>112.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>185.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>185.0</x>
+            <y>114.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>185.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>185.0</x>
+            <y>116.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>185.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>185.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>185.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>185.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>185.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>185.0</x>
+            <y>122.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>185.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>185.0</x>
+            <y>124.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>185.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>185.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>185.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="39">
+            <x>185.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="40">
+            <x>184.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="41">
+            <x>184.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="42">
+            <x>184.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="43">
+            <x>184.0</x>
+            <y>131.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+    <CKChromosome index="19">
+        <Label label="1"/>
+        <Point index="0">
+            <x>137.0</x>
+            <y>88.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+        <Point index="1">
+            <x>137.0</x>
+            <y>88.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="2">
+            <x>137.0</x>
+            <y>89.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="3">
+            <x>137.0</x>
+            <y>90.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="4">
+            <x>137.0</x>
+            <y>91.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="5">
+            <x>137.0</x>
+            <y>92.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="6">
+            <x>137.0</x>
+            <y>93.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="7">
+            <x>137.0</x>
+            <y>94.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="8">
+            <x>137.0</x>
+            <y>95.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="9">
+            <x>137.0</x>
+            <y>96.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="10">
+            <x>137.0</x>
+            <y>97.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="11">
+            <x>137.0</x>
+            <y>98.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="12">
+            <x>137.0</x>
+            <y>99.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="13">
+            <x>137.0</x>
+            <y>100.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="14">
+            <x>137.0</x>
+            <y>101.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="15">
+            <x>137.0</x>
+            <y>102.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="16">
+            <x>137.0</x>
+            <y>103.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="17">
+            <x>137.0</x>
+            <y>104.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="18">
+            <x>137.0</x>
+            <y>105.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="19">
+            <x>137.0</x>
+            <y>106.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="20">
+            <x>137.0</x>
+            <y>107.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="21">
+            <x>137.0</x>
+            <y>108.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="22">
+            <x>137.0</x>
+            <y>109.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="23">
+            <x>137.0</x>
+            <y>110.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="24">
+            <x>137.0</x>
+            <y>111.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="25">
+            <x>137.0</x>
+            <y>112.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="26">
+            <x>137.0</x>
+            <y>113.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="27">
+            <x>137.0</x>
+            <y>114.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="28">
+            <x>137.0</x>
+            <y>115.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="29">
+            <x>137.0</x>
+            <y>116.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="30">
+            <x>137.0</x>
+            <y>117.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="31">
+            <x>137.0</x>
+            <y>118.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="32">
+            <x>137.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="33">
+            <x>136.0</x>
+            <y>119.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="34">
+            <x>136.0</x>
+            <y>120.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="35">
+            <x>136.0</x>
+            <y>121.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="36">
+            <x>136.0</x>
+            <y>122.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="37">
+            <x>136.0</x>
+            <y>123.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="38">
+            <x>136.0</x>
+            <y>124.0</y>
+            <isnode>true</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="39">
+            <x>136.0</x>
+            <y>125.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="40">
+            <x>136.0</x>
+            <y>126.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="41">
+            <x>136.0</x>
+            <y>127.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="42">
+            <x>136.0</x>
+            <y>128.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="43">
+            <x>136.0</x>
+            <y>129.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="44">
+            <x>136.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="45">
+            <x>135.0</x>
+            <y>130.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="46">
+            <x>135.0</x>
+            <y>131.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="47">
+            <x>135.0</x>
+            <y>132.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="48">
+            <x>135.0</x>
+            <y>133.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="49">
+            <x>135.0</x>
+            <y>134.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="50">
+            <x>135.0</x>
+            <y>135.0</y>
+            <isnode>false</isnode>
+            <isvisible>false</isvisible>
+        </Point>
+        <Point index="51">
+            <x>135.0</x>
+            <y>136.0</y>
+            <isnode>true</isnode>
+            <isvisible>true</isvisible>
+        </Point>
+    </CKChromosome>
+</lp4-gill4_1-d1_xy20c1aryogram.pn>
